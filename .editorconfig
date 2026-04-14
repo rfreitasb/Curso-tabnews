@@ -1,0 +1,5 @@
+root = true
+
+[*]
+idemnt_style = space
+ident_size = 2

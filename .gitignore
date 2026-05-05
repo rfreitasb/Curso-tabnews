@@ -1,2 +1,4 @@
 .next
 node_modules/
+models/calculadora.js
+tests/unit/calculadora.test.js
